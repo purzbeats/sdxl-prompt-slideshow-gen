@@ -1,5 +1,5 @@
 # sdxl-prompt-slideshow-gen
-SDXL Prompt Slideshow Generator
+**SDXL Prompt Slideshow Generator**
 
 This will go through a folder of SDXL images, extract the prompts and place them in the bottom part of the video with a drop shadow.
 
@@ -8,7 +8,7 @@ This will go through a folder of SDXL images, extract the prompts and place them
 - Adjust your settings
 - Hit Generate
 
-Usage
+**Usage**
 
 - Bring up GUI
 `python ./slideshow.py`
@@ -19,5 +19,7 @@ There are some probably some dependencies you will have to `pip install`
 
 `debug_prompts.py` currently doesn't have a GUI, I was just using it to query the folder of images and see if the prompts work, you'll have to manually change the folder at the bottom to match the folder you want to scan
 
+**Example Output**
+https://github.com/purzbeats/sdxl-prompt-slideshow-gen/assets/97489706/cda3adcc-89b6-4889-abd9-e346edc27e7d
 
-I used ChatGPT to make this so _please_ feel free to make it much better.
+I used ChatGPT to make this tool, so _please_ feel free to make it much better.
