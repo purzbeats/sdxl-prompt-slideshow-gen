@@ -8,4 +8,13 @@ This will go through a folder of SDXL images, extract the prompts and place them
 - Adjust your settings
 - Hit Generate
 
+Usage
+
+- Bring up GUI
+`python ./slideshow.py`
+
+![image](https://github.com/purzbeats/sdxl-prompt-slideshow-gen/assets/97489706/e61479ba-8609-4d71-afcd-d186e3e72ea3)
+
+There are some probably some dependencies you will have to `pip install`
+
 I used ChatGPT to make this so place feel free to make it much better.
