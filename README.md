@@ -17,4 +17,7 @@ Usage
 
 There are some probably some dependencies you will have to `pip install`
 
+`debug_prompts.py` currently doesn't have a GUI, I was just using it to query the folder of images and see if the prompts work, you'll have to manually change the folder at the bottom to match the folder you want to scan
+
+
 I used ChatGPT to make this so _please_ feel free to make it much better.
