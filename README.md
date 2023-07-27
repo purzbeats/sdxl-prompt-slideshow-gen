@@ -21,6 +21,10 @@ There are some probably some dependencies you will have to `pip install`
 
 **Example Output**
 
-![video](https://github.com/purzbeats/sdxl-prompt-slideshow-gen/assets/97489706/cda3adcc-89b6-4889-abd9-e346edc27e7d)
+
+
+https://github.com/purzbeats/sdxl-prompt-slideshow-gen/assets/97489706/162a0873-41a5-4915-b64f-9a89b65240f9
+
+
 
 I used ChatGPT to make this tool, so _please_ feel free to make it much better.
