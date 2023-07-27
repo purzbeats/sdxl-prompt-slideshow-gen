@@ -17,4 +17,4 @@ Usage
 
 There are some probably some dependencies you will have to `pip install`
 
-I used ChatGPT to make this so place feel free to make it much better.
+I used ChatGPT to make this so _please_ feel free to make it much better.
